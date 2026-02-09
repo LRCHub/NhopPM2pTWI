@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Believers",
+  "base_artist": "Novelbright",
+  "createdAt": "2026-02-09T19:30:53.557074Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Believers",
+      "artist": "Alan Walker feat. Conor Maynard",
+      "has_synced": true,
+      "path": "select/01_Believers_Alan_Walker_feat._Conor_Maynard.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Believers",
+      "artist": "Alan Walker",
+      "has_synced": true,
+      "path": "select/02_Believers_Alan_Walker.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Thank God For Believers",
+      "artist": "Mark Chesnutt",
+      "has_synced": true,
+      "path": "select/03_Thank_God_For_Believers_Mark_Chesnutt.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Thank God For Believers (Album Version)",
+      "artist": "Mark Chesnutt",
+      "has_synced": true,
+      "path": "select/04_Thank_God_For_Believers_(Album_Version)_Mark_Chesnutt.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Believers Of The Unpure",
+      "artist": "Christian Death",
+      "has_synced": false,
+      "path": "select/05_Believers_Of_The_Unpure_Christian_Death.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Obviously 5 Believers",
+      "artist": "Bob Dylan",
+      "has_synced": true,
+      "path": "select/06_Obviously_5_Believers_Bob_Dylan.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Believers",
+      "artist": "Cut Copy",
+      "has_synced": true,
+      "path": "select/07_Believers_Cut_Copy.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "True Believers",
+      "artist": "Level 42",
+      "has_synced": true,
+      "path": "select/08_True_Believers_Level_42.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "The Believers",
+      "artist": "How to Destroy Angels",
+      "has_synced": true,
+      "path": "select/09_The_Believers_How_to_Destroy_Angels.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "No Believers",
+      "artist": "Sacred Reich",
+      "has_synced": true,
+      "path": "select/10_No_Believers_Sacred_Reich.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Believers (Arab Spring)",
+      "artist": "Nelly Furtado",
+      "has_synced": true,
+      "path": "select/11_Believers_(Arab_Spring)_Nelly_Furtado.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "true believers",
+      "artist": "The Cult",
+      "has_synced": true,
+      "path": "select/12_true_believers_The_Cult.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "F****n' Believers",
+      "artist": "Elisa",
+      "has_synced": true,
+      "path": "select/13_F_n'_Believers_Elisa.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Fuckin' Believers",
+      "artist": "Elisa",
+      "has_synced": true,
+      "path": "select/14_Fuckin'_Believers_Elisa.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Obviously Five Believers",
+      "artist": "Bob Dylan",
+      "has_synced": true,
+      "path": "select/15_Obviously_Five_Believers_Bob_Dylan.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Believers",
+      "artist": "Alan Walker, Conor Maynard",
+      "has_synced": true,
+      "path": "select/16_Believers_Alan_Walker,_Conor_Maynard.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "A Call to All Non-Believers",
+      "artist": "All That Remains",
+      "has_synced": true,
+      "path": "select/17_A_Call_to_All_Non-Believers_All_That_Remains.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Blessed Are The Believers",
+      "artist": "Anne Murray",
+      "has_synced": true,
+      "path": "select/18_Blessed_Are_The_Believers_Anne_Murray.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Believers",
+      "artist": "Novelbright",
+      "has_synced": false,
+      "path": "select/pl_01_Believers_Novelbright.txt"
+    }
+  ]
+}
